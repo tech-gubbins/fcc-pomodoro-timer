@@ -3,7 +3,7 @@ import React from 'react';
 const Settings = ({ label, time, increment, decrement }) => {
     return (
         <div className='flex flex-col items-conatiner'>
-            <h3 className='text-lg font-semibold'>{label} Length</h3>
+            <h3 className='text-lg font-semibold'>{label}</h3>
             <div className='flex items-center space-x-4'>
                 <button
                     onClick={decrement}
