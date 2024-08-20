@@ -6,8 +6,12 @@ const Timer = ({ timeLeft, label }) => {
 
     return (
         <div className='text-center my-4'>
-            <h2 className='text-2x1 font-bold'>{label}</h2>
-            <p className='text-4x1 font-mono'>
+            <h2 
+                id="timer-label"
+                className='text-2x1 font-bold'>{label}</h2>
+            <p 
+                id="time-left"
+                className='text-4x1 font-mono'>
                 {minutes < 10 ? `0${minutes}` : minutes}:
                 {seconds < 10 ? `0${seconds}` : seconds}
             </p>
