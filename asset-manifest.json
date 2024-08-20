@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-pomodoro-timer/static/css/main.4d423783.css",
+    "main.js": "/fcc-pomodoro-timer/static/js/main.0f398473.js",
+    "static/js/453.81174805.chunk.js": "/fcc-pomodoro-timer/static/js/453.81174805.chunk.js",
+    "index.html": "/fcc-pomodoro-timer/index.html",
+    "main.4d423783.css.map": "/fcc-pomodoro-timer/static/css/main.4d423783.css.map",
+    "main.0f398473.js.map": "/fcc-pomodoro-timer/static/js/main.0f398473.js.map",
+    "453.81174805.chunk.js.map": "/fcc-pomodoro-timer/static/js/453.81174805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d423783.css",
+    "static/js/main.0f398473.js"
+  ]
+}
